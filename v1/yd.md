@@ -21,3 +21,16 @@
 - mode: -h 帮助
     1. name: install、uninstall、start、stop、restart 说明
     2. name: path 查看所有软件安装目录，日志目录，配置目录
+    
+### 软件列表
+
+| 软件名称 |软件版本|对应命令|脚本名称|
+|:---|:---:|:---:|---:|
+|java8|v1.9|java|java.sh|
+|tomcat|v|tomcat|tomcat.sh|
+|mysql|v|mysql|mysql.sh|
+|maven|v|maven|maven.sh|
+|svn|v|svn|svn.sh|
+|jenkins|v|jenkins|jenkins.sh|
+|nginx|v|nginx|nginx.sh|
+|yddome|v|yddome|yddome.sh|
